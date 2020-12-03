@@ -14,7 +14,7 @@ export default
 v-footer
   v-layout(justify-space-around)
     .powered-by.caption
-      a(href="https://www.loomio.org/?frontpage" v-t="'powered_by.powered_by_loomio'" target="_blank")
+      a(href="https://alsysmedia.xyz" v-t="'powered_by.powered_by_loomio'" target="_blank")
       span(v-if="privacyUrl")
         | &nbsp;
         mid-dot

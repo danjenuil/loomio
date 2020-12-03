@@ -879,7 +879,7 @@ fr:
     edit_subgroup_heading: 'Modifier les paramètres du sous-groupe'
     group_name: 'Nom du groupe'
     handle: Gérer
-    group_handle_placeholder: "Pour l'adresse URL et l'e-mail, par ex. loomio.org/handle et handle@loomio.org"
+    group_handle_placeholder: "Pour l'adresse URL et l'e-mail, par ex. agoratalk.co/handle et handle@agoratalk.co"
     organization_name: 'Nom de l''organisation'
     start_organization_heading: Nouveau groupe
     edit_organization_heading: Modifier les paramètres de l'organisation
@@ -1944,7 +1944,7 @@ fr:
     link: Merci de mettre à jour ou de changer de navigateur
   powered_by:
     slogan: De meilleures décisions ensemble
-    powered_by_loomio: Propulsé par Loomio
+    powered_by_loomio: Propulsé par Alsys Media Group
     privacy_policy: Politique de confidentialité
     terms_of_service: Conditions d'utilisation
     front_page: Première page

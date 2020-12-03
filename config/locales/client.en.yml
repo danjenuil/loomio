@@ -1009,7 +1009,7 @@ en:
     edit_subgroup_heading: 'Edit subgroup settings'
     group_name: 'Group Name'
     handle: Handle
-    group_handle_placeholder: "For URL and email, e.g. loomio.org/handle and handle@loomio.org"
+    group_handle_placeholder: "For URL and email, e.g. agoratalk.co/handle and handle@agoratalk.co"
     organization_name: 'Organization Name'
     start_organization_heading: New organization
     edit_organization_heading: Edit organization settings
@@ -2210,8 +2210,8 @@ en:
     link: Please switch to another browser
 
   powered_by:
-    slogan: Better decisions together
-    powered_by_loomio: Powered by Loomio
+    slogan: Improve group discussions
+    powered_by_loomio: Powered by Alsys Media Group
     privacy_policy: Privacy policy
     terms_of_service: Terms of service
     front_page: Front page

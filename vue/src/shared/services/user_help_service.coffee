@@ -1,8 +1,8 @@
 import Session from '@/shared/services/session'
 
 export default new class UserHelpService
-  helpLocale: ->
-    'en'
+  # helpLocale: ->
+  #   'en'
     # switch Session.user().locale
     #   when 'es', 'an', 'ca', 'gl' then 'es'
     #   when 'zh-TW'                then 'zh'
@@ -11,4 +11,4 @@ export default new class UserHelpService
     #   else 'en'
 
   helpLink: ->
-    "https://help.loomio.org/#{@helpLocale()}/"
+    'https://agoratalk.co/tutoriel.html'

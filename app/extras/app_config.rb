@@ -37,13 +37,13 @@ class AppConfig
 
   def self.theme
     {
-      site_name:                         ENV.fetch('SITE_NAME',                     'Loomio'),
+      site_name:                         ENV.fetch('SITE_NAME',                     'AgoraTalk'),
       channels_uri:                      ENV.fetch('CHANNELS_URI',                  'ws://localhost:5000'),
       terms_url:                         ENV['TERMS_URL'],
       privacy_url:                       ENV['PRIVACY_URL'],
-      help_url:                          ENV.fetch('HELP_URL',                      'https://help.loomio.org/'),
+      help_url:                          ENV.fetch('HELP_URL',                      'https://agoratalk.co/tutoriel.html'),
       icon_src:                          ENV.fetch('THEME_ICON_SRC',                '/theme/icon.png'),
-      app_logo_src:                      ENV.fetch('THEME_APP_LOGO_SRC',            '/theme/logo.svg'),
+      app_logo_src:                      ENV.fetch('THEME_APP_LOGO_SRC',            '/theme/logo-3.png'),
       default_group_cover_src:           ENV.fetch('THEME_DEFAULT_GROUP_COVER_SRC', '/theme/default_group_cover.png'),
       dont_notify_new_thread:            ENV['DONT_NOTIFY_NEW_THREAD'],
 
