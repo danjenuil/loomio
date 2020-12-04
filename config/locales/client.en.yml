@@ -2166,7 +2166,7 @@ en:
       slack: Slack
     subtitle: Connect to Slack, Microsoft Teams, Mattermost, Zapier or anything that supports webhooks
     we_have_guides: |
-      See our <a href="{{url}}" target="_blank">webhook setup guides</a> for help connecting your service.
+      See our webhook setup guides for help connecting your service.
     add_webhook: Add webhook
     success: Webhook added!
     remove: Remove webhook

@@ -1902,7 +1902,7 @@ fr:
       slack: Slack
     subtitle: Connectez-vous à Slack, Microsoft Teams, Mattermost, Zapier ou n'importe que service qui supporte les webhooks
     we_have_guides: |
-        Lisez notre <a href="{{url}}" target="_blank">guide de configuration webhook</a> pour connecter votre propre service.
+        Lisez notre guide de configuration webhook pour connecter votre propre service.
     add_webhook: Ajouter un webhook
     success: Webhook ajouté !
     remove: Supprimer un webhook

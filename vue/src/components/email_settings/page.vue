@@ -91,7 +91,7 @@ v-main
                     strong(v-t="'email_settings_page.mentioned_label'")
                     .email-settings-page__input-description(v-t="'email_settings_page.mentioned_description'")
       v-card-actions
-        a.email-settings-page__learn-more-link(href='https://help.loomio.org/en/user_manual/users/email_settings/' target='_blank' v-t="'email_settings_page.learn_more'")
+        //- a.email-settings-page__learn-more-link(href='https://help.loomio.org/en/user_manual/users/email_settings/' target='_blank' v-t="'email_settings_page.learn_more'")
         v-spacer
         v-btn.email-settings-page__update-button(color="primary" @click="submit()" v-t="'email_settings_page.update_settings'")
 
