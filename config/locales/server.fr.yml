@@ -27,7 +27,7 @@ fr:
     417:
       title: Navigateur incompatible
       body: |
-          Merci de <a href="https://browser-update.org/update.html?force_outdated=true">mettre à jour votre navigateur</a> pour utiliser Loomio
+          Merci de <a href="https://browser-update.org/update.html?force_outdated=true">mettre à jour votre navigateur</a> pour utiliser AgoraTalk
     422:
       title: Entité impossible à traiter
       body: 'Le changement que vous vouliez faire est rejeté. Peut-être avez-vous essayé de modifier quelque chose pour lesquels vous n''avez pas l''autorisation. '
@@ -37,9 +37,9 @@ fr:
     500:
       title: 'Erreur serveur interne '
       body: Nous sommes désolés, mais quelque chose ne s'est pas bien passé. Nous avons été informés du problème et allons y regarder au plus vite.
-    noscript: Loomio nécessite d'autoriser le javascript pour fonctionner. Merci de l'autoriser dans votre navigateur pour continuer
+    noscript: AgoraTalk nécessite d'autoriser le javascript pour fonctionner. Merci de l'autoriser dans votre navigateur pour continuer
     upgrade_browser: |
-        Eh oh! Votre navigateur est trop vieux et Loomio peut ne pas fonctionner correctement. Veuillez <a href="https://browser-update.org/update.html">mettre à jour votre navigateur.</a>
+        Eh oh! Votre navigateur est trop vieux et AgoraTalk peut ne pas fonctionner correctement. Veuillez <a href="https://browser-update.org/update.html">mettre à jour votre navigateur.</a>
     return_home: Retourner à l'accueil
     not_found: 404 fichier non trouvé.
     messages:
@@ -136,15 +136,15 @@ fr:
     deactivated:
       subject: "Le compte utilisateur du site %{site_name} a été désactivé."
       body_html: |
-          <p>Vous, ou une personne ayant accès à votre compte, avez désactivé votre compte d'utilisateur Loomio.</p>
+          <p>Vous, ou une personne ayant accès à votre compte, avez désactivé votre compte d'utilisateur AgoraTalk.</p>
           <p>Toutes les données personnelles ont été supprimées du système.</p>
           <p>Si vous souhaitez récupérer ce compte d'utilisateur et les commentaires et votes associés, veuillez contacter le support et la référence :%{recovery_code}</p>
     accounts_merged:
       subject: "Vos comptes utilisateurs sur %{site_name} ont été fusionnés."
       body_html: |
           Bonjour %{name},
-          Vos deux comptes utilisateurs Loomio ont été fusionnés en un compte.
-          Pour accéder à Loomio, vous devrez maintenant utiliser <strong>%{email}</strong> comme identifiant.
+          Vos deux comptes utilisateurs AgoraTalk ont été fusionnés en un compte.
+          Pour accéder à AgoraTalk, vous devrez maintenant utiliser <strong>%{email}</strong> comme identifiant.
     merge_verification:
       subject: "Vérifiez votre %{site_name} adresse e-mail pour fusionner"
       body_html: |
@@ -184,14 +184,14 @@ fr:
     reset_password:
       greeting: |
           Bonjour %{name}
-          Voici un lien que vous pouvez utiliser pour réinitialiser le mot de passe de votre compte Loomio :
+          Voici un lien que vous pouvez utiliser pour réinitialiser le mot de passe de votre compte AgoraTalk :
       link_text: Réinitialisez votre mot de passe
       signoff: |
           Vous recevez ce courriel parce que votre adresse a été saisie dans le formulaire de « mot de passe oublié » sur %{hostname}.
           Notez bien : votre mot de passe ne sera modifié qu’une fois avoir cliqué sur le lien ci-dessus et complété le formulaire.
           Après quoi, si vous ne parvenez toujours pas à vous connecter, répondez à ce courriel pour contacter une personne de notre équipe support.
     start_decision:
-      subject: Prendre une décision sur Loomio
+      subject: Prendre une décision sur AgoraTalk
       intro: Bonjour, <strong>%{name}</strong>!
       action: Que voulez-vous faire?
       proposal: Créer une proposition
@@ -282,7 +282,7 @@ fr:
     pricing: Tarification
     public_groups: Groupes publics
     terms: Conditions d’utilisation
-    independent_install_html: '%{hostname} est une installation indépendante de Loomio : <a href="http://github.com/loomio/loomio">en savoir plus</a>.'
+    independent_install_html: '%{hostname} est une installation indépendante de AgoraTalk : <a href="http://github.com/loomio/loomio">en savoir plus</a>.'
   invitation_form:
     error:
       too_many_pending: "Vous dépassez le maximum de %{count}invitations en attente pour ce groupe"
@@ -306,32 +306,32 @@ fr:
 
         Quel est votre rôle ou votre approche de la participation dans ce groupe ? Qu'est-ce que les gens devraient savoir à propos de votre venue ici ?
   how_it_works_thread:
-    title: Comment utiliser Loomio
+    title: Comment utiliser AgoraTalk
     description: |
-        Bienvenue à Loomio, un lieu en ligne pour communiquer et prendre des décisions.
+        Bienvenue à AgoraTalk, un lieu en ligne pour communiquer et prendre des décisions.
 
-        Ceci est un exemple de discussion **discussion**. Les fils de discussion servent à discuter des sujets et à obtenir des résultats clairs.Ce fil de discussion concerne le fonctionnement de Loomio, alors posez vos questions à ce sujet ici.
+        Ceci est un exemple de discussion **discussion**. Les fils de discussion servent à discuter des sujets et à obtenir des résultats clairs.Ce fil de discussion concerne le fonctionnement de AgoraTalk, alors posez vos questions à ce sujet ici.
 
         Vous êtes en train de lire le fil de discussion **contexte**, qui peut être mis à jour avec des informations et des questions clés qui aident les gens à s'engager.
 
-        Pour commencer avec Loomio :
+        Pour commencer avec AgoraTalk :
         <ul>
         <li>Essayez de commenter dans un fil de discussion existant, ou dans celui-ci.</li>
         </ul>
-        Conseils pour poster sur Loomio :
+        Conseils pour poster sur AgoraTalk :
         <ul>
         <li>Pour notifier une personne spécifique, tapez @ suivi de son nom</li>
         <li>Faites glisser et déposez des photos et des pièces jointes ou cliquez sur l'icône du trombone</li>
-        <li>Voir <a href="https://help.loomio.org/en/guides/5_ways_to_use_threads/" target="_blank">5 façons d'utiliser les fils de discussions</a>pour quelques idées et conseils</li>
+        <li>Voir 5 façons d'utiliser les fils de discussions pour quelques idées et conseils</li>
         </ul>
 
-        Si vous avez des questions, consultez [Loomio Help] (http://help.loomio.org).
+        Si vous avez des questions, consultez [AgoraTalk Help](http://agoratalk.co/tutoriel.html).
   first_proposal:
-    name: Vous avez des questions sur l'utilisation de Loomio ?
+    name: Vous avez des questions sur l'utilisation de AgoraTalk ?
     description: |
         _Si oui, partagez votre question. Si non, vous êtes prêt à commenter dans les fils de discussion de votre groupe !_
 
-        Ce sondage **Vérifier sondage** vous demande si vous ou quelqu'un d'autre ici a des questions sur l'utilisation de Loomio.
+        Ce sondage **Vérifier sondage** vous demande si vous ou quelqu'un d'autre ici a des questions sur l'utilisation de AgoraTalk.
 
         <ul><li>Allez-y, essayez-le en utilisant les boutons et le champ de texte ci-dessous.</li></ul>
 
@@ -390,7 +390,7 @@ fr:
       body: |
           Les crochets avec le titre, les parenthèses avec l'URL. Pas d'espace entre les parenthèses.
 
-          [Loomio Homepage](https://www.loomio.org/)
+          [AgoraTalk Homepage](https://agoratalk.co/)
 
           Les images sont les mêmes, mais préfixées par un point d'exclamation. Le titre est utilisé comme texte alternatif.
 
@@ -496,18 +496,18 @@ fr:
     poll_created: "Nouveau *%{poll_type}* dans *%{group}*: *%{poll}*"
     poll_closing_soon: "Rappel: *%{poll}* se termine dans 24 heures"
     poll_expired: "*%{poll}* est clôturé·e"
-    poll_not_found: "Désolé, nous n'avons pas trouvé ce sondage. Tapez '/loomio<poll_type><title>' pour recommencer?"
+    poll_not_found: "Désolé, nous n'avons pas trouvé ce sondage. Tapez '/agoratalk <poll_type><title>' pour recommencer?"
     unknown_channel: |
-        Désolé, on dirait qu'il n'y a pas de groupe Loomio associé à cette chaîne.
-        Essayez plutôt de taper '/loomio' dans l'une des chaînes suivantes:
+        Désolé, on dirait qu'il n'y a pas de groupe AgoraTalk associé à cette chaîne.
+        Essayez plutôt de taper '/agoratalk' dans l'une des chaînes suivantes:
         %{integrations}
     stance_not_valid: "Désolé, nous n'avons pas compris votre position pour *%{poll}*. <%{url}|Cliquez ici> pour participer à la décision directement."
     group_identity_created: |
-        Bonjour, je suis Loomio Bot ! *%{author}* m'a ajouté.
+        Bonjour, je suis AgoraTalk Bot ! *%{author}* m'a ajouté.
         Je vous informerai chaque fois qu'il y aura de nouveaux fils de discussion ou de nouveaux sondages au sein de *%{group}*
 
         Si vous n'avez pas encore rejoint *%{group}*, <%{url}Cliquez ici> pour le faire.
-    request_authorization_message: "Une dernière étape : <%{url}|cliquez ici> pour autoriser votre compte Slack à utiliser Loomio. (vous n'aurez à donner cette autorisation qu'une seule fois)"
+    request_authorization_message: "Une dernière étape : <%{url}|cliquez ici> pour autoriser votre compte Slack à utiliser AgoraTalk. (vous n'aurez à donner cette autorisation qu'une seule fois)"
     poll_closed: "*%{title}* est déjà terminé! <%{url}|cliquez ici> pour voir les résultats."
     go_to_slack: Allez sur Slack
     stance_created: Merci d'avoir participé! Vous avez voté *%{position}* sur le sondage<%{poll_url}|%{title}>. Si vous voulez changer de vote, ou ajouter une justification à ce vote, <%{stance_url}|cliquez ici>.
@@ -527,8 +527,8 @@ fr:
         'meeting': Trouvez un moment pour vous réunir
 
         Par exemple:
-        /loomio count Qui vient à la soirée de dimanche?
+        /agoratalk count Qui vient à la soirée de dimanche?
         pour démarrer un nouveau décompte.
         ou
-        /loomio thread Parlons de la stratégie d'entreprise
+        /agoratalk thread Parlons de la stratégie d'entreprise
         pour commencer une nouvelle discussion.

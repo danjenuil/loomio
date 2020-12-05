@@ -8,7 +8,7 @@ en:
         invite_people_in: Invite people in
         start_thread: Start a discussion thread
         make_decision: Start a decision
-      learn_more: Learn more at Loomio Help
+      learn_more: Learn more at AgoraTalk Help
       celebration_message: Nice! Your group is good to go!  🎉
       dismiss_this_card: Dismiss this card
   plan_names:
@@ -23,9 +23,9 @@ en:
   current_plan_button:
     upgrade: Upgrade
     free_trial: Free trial. {{days}} days remaining.
-    trial_expired: Your trial has expired. Upgrade to continue using Loomio.
-    tooltip: "Our prices are fantastic! Upgrade today and enjoy what Loomio can offer your group."
-    was_gift_trial: "Your group has been using Loomio for free since {{createdDate}}. We are unable to continue providing a free service. Please upgrade to continue using Loomio. <a href='https://help.loomio.org/en/plan-changes/' target='_blank' style='text-decoration: underline;'>Read more.</a>"
+    trial_expired: Your trial has expired. Upgrade to continue using AgoraTalk.
+    tooltip: "Our prices are fantastic! Upgrade today and enjoy what AgoraTalk can offer your group."
+    was_gift_trial: "Your group has been using AgoraTalk for free since {{createdDate}}. We are unable to continue providing a free service. Please upgrade to continue using AgoraTalk. <a href='https://help.loomio.org/en/plan-changes/' target='_blank' style='text-decoration: underline;'>Read more.</a>"
     was_gift_remaining: "{{days}} days remaining."
     was_gift_expired: "Your free plan has now expired."
 
@@ -670,7 +670,7 @@ en:
         Invitation limit exceeded. <a href="{{upgradeUrl}}" target="_blank">Upgrade</a>
       no_invitations_remaining: |
         <p>You have used all {{maxMembers}} invitations available to this group.</p>
-        <p>Next step, <a href="{{upgradeUrl}}" target="_blank">choose a plan</a> to continue collaborating on Loomio.</p>
+        <p>Next step, <a href="{{upgradeUrl}}" target="_blank">choose a plan</a> to continue collaborating on AgoraTalk.</p>
 
       invitations_remaining: '{{count}} invitations remaining. <a href="{{upgradeUrl}}" target="_blank">Upgrade</a>'
       who_to_invite: Who would you like to invite?
@@ -1234,7 +1234,7 @@ en:
     location_placeholder: 'Where are you based?'
     update_profile: 'Update profile'
     deactivate_account: 'Deactivate user account'
-    help_translate: "Help us translate Loomio"
+    help_translate: "Help us translate AgoraTalk"
 
   text_editor:
     select_text_to_link: First, select some text to link
@@ -1271,8 +1271,8 @@ en:
     account_deactivated: Your account has been deactivated. You will not receive any emails, ever.
     deactivate_header: Stop all emails forever
     deactivate_description: If you never want to get another email from us ever again, you can deactivate your user account.
-    email_newsletter: Loomio Newsletter
-    email_newsletter_description: "Get updates about new features, training, events in your city and the future of Loomio. Usually 2 or 3 emails per year."
+    email_newsletter: AgoraTalk Newsletter
+    email_newsletter_description: "Get updates about new features, training, events in your city and the future of AgoraTalk. Usually 2 or 3 emails per year."
     daily_summary_label: Daily summary email
     daily_summary_description: "Each morning, you will get an email with any activity that you missed the day before. This makes it easy to stay up to date with activity."
     on_participation_label: Subscribe on participation
@@ -1369,10 +1369,10 @@ en:
     private_thread: Private thread
     max_threads_reached: |
       <p>You have used all {{maxThreads}} threads available to this group.</p>
-      <p>Next step, <a href="{{upgradeUrl}}" target="_blank">choose a plan</a> to continue collaborating on Loomio.</p>
+      <p>Next step, <a href="{{upgradeUrl}}" target="_blank">choose a plan</a> to continue collaborating on AgoraTalk.</p>
     subscription_canceled: |
       <p>Your subscription is not active.</p>
-      <p>Please <a href="{{upgradeUrl}}" target="_blank">upgrade</a> to continue using Loomio.</p>
+      <p>Please <a href="{{upgradeUrl}}" target="_blank">upgrade</a> to continue using AgoraTalk.</p>
     activity: 'Activity'
     activity_placeholder: 'No activity yet!'
     load_previous: 'Load earlier activity'
@@ -1832,7 +1832,7 @@ en:
     share_poll_type: Share {{poll_type}}
     update: Update
     loomio_school_link: |
-      <p>Find out more at <a href="https://help.loomio.org/en/user_manual/getting_started/decision_tools/" target="_blank">Loomio Help</a>.</p>
+      <p>Find out more at AgoraTalk Help.</p>
 
   poll_proposal_form:
     tool_tip_expanded: |
@@ -2124,7 +2124,7 @@ en:
     check_spam_folder: If the email does not arrive soon, check your spam folder.
     sign_up_helptext: Please complete this form to create a user account
     i_accept: "I accept the <a href='{{termsUrl}}' target='_blank'>Terms of service</a> and <a href='{{privacyUrl}}' target='_blank'>Privacy policy</a>"
-    newsletter_label: "I want to receive the <a href='https://help.loomio.org/en/newsletter/' target='_blank'>Loomio newsletter</a>"
+    newsletter_label: "I want to receive the AgoraTalk newsletter"
     name_placeholder: Your name
     name_required: Please enter a name
     terms_required: You must agree to the Terms of Service
@@ -2254,7 +2254,7 @@ en:
       archive: Recording decisions we make or archiving information
     referrers:
       google: Google search
-      invitation: Invited to a Loomio group
+      invitation: Invited to a AgoraTalk group
       referral: Referral
       social: Social media (Facebook, Twitter, LinkedIn)
       capterra: Capterra
@@ -2266,6 +2266,6 @@ en:
     size_question: "How many people are in your group?"
     role: "What is your role in the group?"
     website: "Website URL"
-    usage: "How do you plan to use Loomio? Choose the best fit"
-    desired_feature: "What is the main thing you're looking to use Loomio for?"
-    referrer: "How did you hear about Loomio?"
+    usage: "How do you plan to use AgoraTalk? Choose the best fit"
+    desired_feature: "What is the main thing you're looking to use AgoraTalk for?"
+    referrer: "How did you hear about AgoraTalk?"

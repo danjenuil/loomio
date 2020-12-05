@@ -77,5 +77,5 @@ v-card.mb-4.group-progress-card(outlined flat v-if='show')
           v-icon(color="primary" v-if='!activity.complete()') mdi-checkbox-blank-outline
         v-list-item-content
           span.group-progress-card__activity-text(v-t="translationFor(activity.translate)")
-    a.group-progress-card__learn-more(href='https://help.loomio.org/' target="_blank" v-t="'loomio_onboarding.group_progress_card.learn_more'")
+    a.group-progress-card__learn-more(href='https://agoratalk.co/aide.html' target="_blank" v-t="'loomio_onboarding.group_progress_card.learn_more'")
 </template>

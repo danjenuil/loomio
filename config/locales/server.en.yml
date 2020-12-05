@@ -30,7 +30,7 @@ en:
     417:
       title: Browser incompatible
       body: |
-        Please <a href="https://browser-update.org/update.html?force_outdated=true">Upgrade your browser</a> to use Loomio
+        Please <a href="https://browser-update.org/update.html?force_outdated=true">Upgrade your browser</a> to use AgoraTalk
     422:
       title: Unprocessable Entity
       body: The change you wanted was rejected. Maybe you tried to change something you didn't have access to.
@@ -41,9 +41,9 @@ en:
       title: Internal Server Error
       body: We're sorry, but something went wrong. We've been notified about this issue and we'll take a look at it shortly.
 
-    noscript: Loomio requires javascript to work! Please enable javascript in your browser to continue
+    noscript: AgoraTalk requires javascript to work! Please enable javascript in your browser to continue
     upgrade_browser: |
-      Uh oh! Your web browser is too old and Loomio may not work properly. Please <a href="https://browser-update.org/update.html">upgrade your browser.</a>
+      Uh oh! Your web browser is too old and AgoraTalk may not work properly. Please <a href="https://browser-update.org/update.html">upgrade your browser.</a>
     return_home: Return home
     not_found: 404 file not found.
     messages:
@@ -122,7 +122,7 @@ en:
 
   invitation:
     invitation_cancelled: Sorry, this invitation has been revoked by the group cooordinator. Please request another invitation from your group.
-    invitation_already_used: This invitation has already been used. Please sign in to loomio directly to continue to your group.
+    invitation_already_used: This invitation has already been used. Please sign in to AgoraTalk directly to continue to your group.
 
   date:
     formats:
@@ -151,7 +151,7 @@ en:
     deactivated:
       subject: "Your %{site_name} user account has been deactivated."
       body_html: |
-        <p>You, or someone with access to your account, has deactivated your Loomio user account.</p>
+        <p>You, or someone with access to your account, has deactivated your AgoraTalk user account.</p>
         <p>All personal data has been removed from the system.</p>
         <p>If you wish to recover this user account and associated comments and votes, please contact support and reference: %{recovery_code}</p>
 
@@ -159,8 +159,8 @@ en:
       subject: "Your %{site_name} user accounts have been merged."
       body_html: |
         Hi %{name},
-        Your two loomio accounts have been merged into one account.
-        To access loomio from now on, please use <strong>%{email}</strong> when you sign in.
+        Your two AgoraTalk accounts have been merged into one account.
+        To access AgoraTalk from now on, please use <strong>%{email}</strong> when you sign in.
 
     merge_verification:
       subject: "Verify your %{site_name} email address for merging"
@@ -206,7 +206,7 @@ en:
     reset_password:
       greeting: |
         Hi %{name}
-        Here is a link you can use to reset the password on your Loomio account:
+        Here is a link you can use to reset the password on your AgoraTalk account:
       link_text: Reset your password
       signoff: |
         You received this because your email was entered into the "Forgot password" form on %{hostname}.
@@ -214,7 +214,7 @@ en:
         If you continue to have problems logging in, reply to this email to contact a support person.
 
     start_decision:
-      subject: Start a decision on Loomio
+      subject: Start a decision on AgoraTalk
       intro: Hello, <strong>%{name}</strong>!
       action: What would you like to do?
       proposal: Raise a proposal
@@ -321,7 +321,7 @@ en:
     pricing: Pricing
     public_groups: Public groups
     terms: Terms
-    independent_install_html: '%{hostname} is running an independent copy of Loomio: <a href="http://github.com/loomio/loomio">find out more</a>.'
+    independent_install_html: '%{hostname} is running an independent copy of AgoraTalk: <a href="http://github.com/loomio/loomio">find out more</a>.'
 
   invitation_form:
     error:
@@ -349,33 +349,33 @@ en:
       What’s your role or approach to participation in this group? What should people know about you to understand where you’re coming from?
 
   how_it_works_thread:
-    title: How to use Loomio
+    title: How to use AgoraTalk
     description: |
-      Welcome to Loomio, an online place for communicating and making decisions.
+      Welcome to AgoraTalk, an online place for communicating and making decisions.
 
-      This is an example discussion **thread**. You can add comments below. Threads are for discussing topics and getting clear outcomes. This thread is about how Loomio works, so post questions about that here.
+      This is an example discussion **thread**. You can add comments below. Threads are for discussing topics and getting clear outcomes. This thread is about how AgoraTalk works, so post questions about that here.
 
       You are currently reading the thread **context**, which can be kept up to date with key information and questions that help people engage.
 
-      To get started with Loomio:
+      To get started with AgoraTalk:
       <ul>
         <li>Try commenting in an existing thread, or this one.</li>
       </ul>
-      Tips for posting on Loomio:
+      Tips for posting on AgoraTalk:
       <ul>
         <li>To notify a specific person, type @ followed by their name</li>
         <li>Drag and drop pictures and attachments or click the paperclip icon</li>
-        <li>See <a href="https://help.loomio.org/en/guides/5_ways_to_use_threads/" target="_blank">5 ways to use threads</a> for some ideas and tips</li>
+        <li>See 5 ways to use threads for some ideas and tips</li>
       </ul>
 
-      If you have any questions, see [Loomio Help](http://help.loomio.org).
+      If you have any questions, see [AgoraTalk Help](http://agoratalk.co/tutoriel.html).
 
   first_proposal:
-    name: Have any questions about using Loomio?
+    name: Have any questions about using AgoraTalk?
     description: |
       _If yes, share your question. If no, you’re ready to comment in your group’s threads!_
 
-      This **Check poll** is asking whether you or anyone here has any questions about using Loomio.
+      This **Check poll** is asking whether you or anyone here has any questions about using AgoraTalk.
 
       <ul><li>Go ahead and try it using the buttons and text field below.</li></ul>
 
@@ -445,7 +445,7 @@ en:
       body: |
         Square brackets with title, round brackets with URL. No spaces between the brackets.
 
-        [Loomio Homepage](https://www.loomio.org/)
+        [AgoraTalk Homepage](https://agoratalk.co/)
 
         Images are the same, but prefixed with an exclamation mark. Title is used as alt text.
 
@@ -572,18 +572,18 @@ en:
     poll_created: "New *%{poll_type}* in *%{group}*: *%{poll}*"
     poll_closing_soon: "Reminder: *%{poll}* is closing in 24 hours"
     poll_expired: "*%{poll}* has closed"
-    poll_not_found: "Sorry, that poll was not found. Type '/loomio <poll_type> <title>' to start another one?"
+    poll_not_found: "Sorry, that poll was not found. Type '/agoratalk <poll_type> <title>' to start another one?"
     unknown_channel: |
-      Sorry, it looks like there's not a loomio group associated with this channel.
-      Try running '/loomio' in one of the following channels instead?
+      Sorry, it looks like there's not a AgoraTalk group associated with this channel.
+      Try running '/agoratalk' in one of the following channels instead?
       %{integrations}
     stance_not_valid: "Sorry, we weren't able to create a stance for *%{poll}*. <%{url}|Click here> to vote on the poll directly."
     group_identity_created: |
-      Hello, I'm Loomio Bot! *%{author}* added me.
+      Hello, I'm AgoraTalk Bot! *%{author}* added me.
       I'll tell you whenever there are new threads or polls within *%{group}*
 
       If you haven't joined *%{group}* yet, <%{url}|Click here> to do so.
-    request_authorization_message: "Just one more step: <%{url}|Click here> to authorize your slack account to use Loomio. (You'll only have to do this once)"
+    request_authorization_message: "Just one more step: <%{url}|Click here> to authorize your slack account to use AgoraTalk. (You'll only have to do this once)"
     poll_closed: "*%{title}* has closed already! <%{url}|Click here> to view the results."
     go_to_slack: Go to Slack
     stance_created: Thanks for participating! You voted *%{position}* on the poll <%{poll_url}|%{title}>. If you''d like to change your vote, or give a reason for why you feel this way, <%{stance_url}|click here>.
@@ -601,11 +601,11 @@ en:
       'poll':         Measure popularity of options
       'dot_vote': Prioritise a list of options
       'meeting': Find a time to meet
-      Or, start a conversation with '/loomio thread <title>'.
+      Or, start a conversation with '/agoratalk thread <title>'.
 
       For example:
-      /loomio count Who's coming to the party on Sunday?
+      /agoratalk count Who's coming to the party on Sunday?
       In order to start a new count.
       or
-      /loomio thread Let's talk about the company direction
+      /agoratalk thread Let's talk about the company direction
       To start a new thread

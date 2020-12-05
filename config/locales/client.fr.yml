@@ -7,7 +7,7 @@ fr:
         invite_people_in: Invitez des personnes
         start_thread: Lancez une discussion
         make_decision: Prenez une décision
-      learn_more: Apprenez-en plus dans l'aide Loomio
+      learn_more: Apprenez-en plus dans l'aide AgoraTalk
       celebration_message: Bien joué  ! Votre groupe est désormais prêt à démarrer !
       dismiss_this_card: Ignorer cette carte
   plan_names:
@@ -21,9 +21,9 @@ fr:
   current_plan_button:
     upgrade: Changer d'offre
     free_trial: Essai gratuit.  {{days}} jours restants.
-    trial_expired: Votre période d'essai est terminé. Passez dès maintenant en version premium pour continuer à utiliser Loomio en toute tranquillité.
-    tooltip: "Nos prix sont imbattables ! Passez en version premium dès aujourd'hui et profitez de toutes les fonctionnalités de Loomio pour votre travail en groupe."
-    was_gift_trial: "Votre groupe utilise Loomio gratuitement depuis {{createdDate}}}. Nous ne sommes pas en mesure de continuer à fournir un service gratuit. Changez d'offre pour continuer à utiliser Loomio. </a>En savoir plus ici.</a>"
+    trial_expired: Votre période d'essai est terminé. Passez dès maintenant en version premium pour continuer à utiliser AgoraTalk en toute tranquillité.
+    tooltip: "Nos prix sont imbattables ! Passez en version premium dès aujourd'hui et profitez de toutes les fonctionnalités de AgoraTalk pour votre travail en groupe."
+    was_gift_trial: "Votre groupe utilise AgoraTalk gratuitement depuis {{createdDate}}}. Nous ne sommes pas en mesure de continuer à fournir un service gratuit. Changez d'offre pour continuer à utiliser AgoraTalk. </a>En savoir plus ici.</a>"
     was_gift_remaining: "{{days}} jours restants."
     was_gift_expired: "Votre forfait gratuit a maintenant expiré."
   subscription_status:
@@ -588,7 +588,7 @@ fr:
           Invitations maximum atteintes. <a href="{{upgradeUrl}}" target="_blank">Mettre à jour</a>
       no_invitations_remaining: |
           <p>Vous avez épuisé toutes les {{maxMembers}} invitations disponible pour ce groupe.</p>
-          <p>Étape suivante, <a href="{{upgradeUrl}}" target="_blank">choisissez un abonnement</a> pour continuer à utiliser Loomio.</p>
+          <p>Étape suivante, <a href="{{upgradeUrl}}" target="_blank">choisissez un abonnement</a> pour continuer à utiliser AgoraTalk.</p>
       invitations_remaining: '{{count}} invitations restantes <a href="{{upgradeUrl}}" target="_blank">Mettre à jour</a>'
       invitation_message_label: Message
       group_announced:
@@ -1081,7 +1081,7 @@ fr:
     location_placeholder: 'Où êtes-vous ?'
     update_profile: 'Mettre à jour mon profil'
     deactivate_account: 'Désactiver le compte utilisateur'
-    help_translate: "Aidez-nous à traduire Loomio"
+    help_translate: "Aidez-nous à traduire AgoraTalk"
   text_editor:
     select_text_to_link: Sélectionnez le texte du lien
     insert_link: Insérer un lien
@@ -1113,8 +1113,8 @@ fr:
     account_deactivated: Votre compte a été désactivé. Vous ne recevrez désormais plus d'emails, pour toujours.
     deactivate_header: Arrêtez tous les courriels, pour toujours.
     deactivate_description: Si vous souhaitez ne plus jamais recevoir de courriels de notre part, vous pouvez désactiver votre compte utilisateur.
-    email_newsletter: Bulletin d'information de Loomio
-    email_newsletter_description: "Etre averti des nouvelles fonctionnalités, formation, évènements dans votre ville et du futur de Loomio. 2 à 3 e-mails par an."
+    email_newsletter: Bulletin d'information de AgoraTalk
+    email_newsletter_description: "Etre averti des nouvelles fonctionnalités, formation, évènements dans votre ville et du futur de AgoraTalk. 2 à 3 e-mails par an."
     daily_summary_label: Résumé quotidien
     daily_summary_description: "Tous les matins, vous recevrez un courriel avec toutes les activités que vous avez raté la veille. Cela vous permet de rester au courant de l’activité de vos groupes."
     on_participation_label: Notification sur les discussions auxquelles je participe
@@ -1201,9 +1201,9 @@ fr:
   discussion:
     max_threads_reached: |
         <p>Vous avez épuisé toutes les {{maxThreads}} invitations disponible pour ce groupe.</p>
-        <p>Étape suivante, <a href="{{upgradeUrl}}" target="_blank">choisissez un abonnement</a> pour continuer à utiliser Loomio.</p>
+        <p>Étape suivante, <a href="{{upgradeUrl}}" target="_blank">choisissez un abonnement</a> pour continuer à utiliser AgoraTalk.</p>
     subscription_canceled: |
-        Votre abonnement n'est pas actif. Veuillez passer en version premium pour continuer à utiliser Loomio.
+        Votre abonnement n'est pas actif. Veuillez passer en version premium pour continuer à utiliser AgoraTalk.
     activity: 'Activité'
     activity_placeholder: 'Aucune activité pour l’instant !'
     load_previous: 'Afficher les activités précédentes'
@@ -1598,7 +1598,7 @@ fr:
     share_poll_type: Partager {{poll_type}}
     update: Mettre à jour
     loomio_school_link: |
-        <p>Apprenez-en plus sur <a href="https://help.loomio.org/en/user_manual/getting_started/decision_tools/" target="_blank">l'aide de Loomio</a>.</p>
+        <p>Apprenez-en plus sur l'aide de AgoraTalk.</p>
   poll_proposal_form:
     tool_tip_expanded: |
         <p>Une proposition est un outil de recherche d’accord collectif à propos d’une déclaration ou d’un plan d’action.</p>
@@ -1861,7 +1861,7 @@ fr:
     check_spam_folder: Si vous ne recevez pas l'e-mail, veuillez vérifier le répertoire des spams.
     sign_up_helptext: Merci de remplir ce formulaire pour créer un compte
     i_accept: "J'accepte les <a href='{{termsUrl}}' target='_blank'>Conditions d'utilisation</a> et la <a href='{{privacyUrl}}' target='_blank'>Politique de vie privée</a>"
-    newsletter_label: "Je souhaite recevoir la <a href='https://help.loomio.org/en/newsletter/' target='_blank'>lettre d'information Loomio</a>"
+    newsletter_label: "Je souhaite recevoir la lettre d'information AgoraTalk"
     name_placeholder: Votre nom
     name_required: Entrez un nom
     terms_required: Vous devez accepter les Conditions d'utilisation
@@ -1986,7 +1986,7 @@ fr:
       archive: Enregistrer les décisions que nous prenons ou archiver l'information
     referrers:
       google: Recherche google
-      invitation: Invité dans un groupe Loomio
+      invitation: Invité dans un groupe AgoraTalk
       referral: Renvoi
       social: Média sociaux (Facebook, Twitter, Linkedin)
       capterra: Capterra
@@ -1998,6 +1998,6 @@ fr:
     size_question: "De combien de personnes est composé votre groupe ?"
     role: "Quel est votre rôle au sein du groupe ?"
     website: "URL du site internet"
-    usage: "Comment planifiez-vous d'utiliser Loomio ? Choisissez la meilleure réponse"
-    desired_feature: "Quelle est la principale raison pour laquelle vous souhaitez utiliser Loomio ?"
-    referrer: "Comment avez-vous entendu parler de Loomio ?"
+    usage: "Comment planifiez-vous d'utiliser AgoraTalk ? Choisissez la meilleure réponse"
+    desired_feature: "Quelle est la principale raison pour laquelle vous souhaitez utiliser AgoraTalk ?"
+    referrer: "Comment avez-vous entendu parler de AgoraTalk ?"
